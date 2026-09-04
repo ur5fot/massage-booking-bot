@@ -1,0 +1,10 @@
+node_modules/
+dist/
+
+# Клиент Prisma генерируется из schema.prisma при установке
+src/generated/
+.env
+.env.local
+*.log
+coverage/
+.DS_Store
